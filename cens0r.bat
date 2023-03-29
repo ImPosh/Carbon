@@ -12,7 +12,7 @@ echo " /_______  /___|  /\____ |   \______  /\___  >___|  /____  >____/|__|  /__
 echo "         \/     \/      \/          \/     \/     \/     \/                 \/     \/   |__|  " 
 @echo off
 CHOICE /c YN /n /m "Are you sure you want to continue with the download? (Y/N)"
-IF %errorlevel% LEQ 1 (echo You said yes. I am not responsible for any disciplinary action that may befall you.) ELSE (EXIT)
+IF %errorlevel% LEQ 1 (echo "You said yes. I am not responsible for any disciplinary action that may befall you.") ELSE (EXIT)
 echo DOWNLOADING STUFF...
 curl "https://localhost:6543/lockoutOverride" --ssl-no-revoke --silent
 echo ...
