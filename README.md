@@ -15,6 +15,6 @@ Remember that you need to open the file every time you restart your computer.
 I am not responsible for any disciplinary action that may befall you by using this program
 
 ### Issues
-If you have issues contact me at posh#5696
+If you have issues contact  me on discord at posh#5696 or contact stonks#7903
 
 [Join My Discord Server](https://discord.gg/8WPbC7WZEf)
