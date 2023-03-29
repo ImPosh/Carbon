@@ -9,6 +9,9 @@ This is a `.bat` file that allows you to bypass the lightspeed filtering system 
 2. Open the file and follow the instructions.
 3. You're all set.
 
+## Legal
+I am not responsible for any disciplinary action that may befall you by using this program
+
 Remember that you need to open the file every time you restart your computer.
 
 ### Issues
