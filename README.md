@@ -7,7 +7,9 @@ This is a `.bat` file that allows you to bypass the lightspeed filtering system 
 ## Getting started
 1. Click on the [`cens0r.bat`](cens0r.bat) file and download it.
 2. Open the file and follow the instructions.
-3. Your all set remember that you need to do this everytime you start up your computer.
+3. You're all set.
+
+Remember that you need to open the file every time you restart your computer.
 
 ### Issues
 If you have issues contact me at posh#5696
