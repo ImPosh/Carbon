@@ -1,6 +1,6 @@
 @echo off
 color 0a
-echo Welcome to cens0r!
+echo Welcome to carbon!
 echo Made by posh#5696 and stonks#7903
 Pause. >nul | echo.Do you want to end censorship on this device. If so click any key to countinue with the setup
 Pause. >nul | echo.Do you understand that this program is made for fcps computers using lightspeed. click any key to continue
