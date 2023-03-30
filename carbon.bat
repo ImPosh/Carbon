@@ -1,5 +1,6 @@
 @echo off
 color 0a
+title carbon
 echo Welcome to carbon!
 echo Made by posh#5696 and stonks#7903
 Pause. >nul | echo.Do you want to end censorship on this device. If so click any key to countinue with the setup
