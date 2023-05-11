@@ -2,4 +2,4 @@
 
 <h1 align="center">Carbon</h1>
 
-Are repo has been move [here](https://github.com/carbonnetwork-dev/Carbon)
+Our repo has been move [here](https://github.com/carbonnetwork-dev/Carbon)
