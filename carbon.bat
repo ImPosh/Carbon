@@ -1,7 +1,8 @@
 @echo off
 color 0a
-title carbon
+title Carbon
 echo Welcome to carbon!
+echo For Testing purposes only
 echo Make sure to star our repo as that would help us alot
 echo Made by Joshua Vonharten and Elliot Powers
 echo This has been tested only on fcps this file may not work for other school districts  
