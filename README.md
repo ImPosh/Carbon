@@ -5,6 +5,7 @@
 </div>
 
 ## Features
+
 - Nice looking ui
 - Works on all fcps computers
 - Safe to use
@@ -12,6 +13,11 @@
 - Consumer friendly
 
 ## Creators
+
 - [`posh`](https://github.com/ImPosh)
 - [`epizell`](https://github.com/Epizell)
 - [`stonks7903`](https://github.com/stonks7903)
+
+## Changelog
+
+Changes are documented in the [changelog]
