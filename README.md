@@ -20,4 +20,4 @@
 
 ## Changelog
 
-Changes are documented in the [changelog]
+Changes are documented in the [changelog](./Changelog.md)
