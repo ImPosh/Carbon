@@ -4,7 +4,6 @@ title Carbon
 echo Welcome to carbon!
 echo Made this for a school project I need that A+
 echo For Testing purposes only
-echo Make sure to star our repo as that would help us alot
 echo Made by Joshua Vonharten and Elliot Powers
 echo This has been tested only on fcps computers this program may not work for other school districts  
 Pause. >nul | echo.Do you want to end censorship on this device. If so click any key to countinue with the setup
