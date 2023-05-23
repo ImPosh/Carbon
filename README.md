@@ -1,5 +1,12 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ImPosh/cens0r/main/Main/AB08F895-BE97-4DD5-838C-CA63D398F03D.jpeg" height="200"></p>
+<div align="center">
 
-<h1 align="center">Carbon</h1>
+<img src="https://socialify.git.ci/ImPosh/Carbon/image?description=1&descriptionEditable=Carbon%20is%20an%20unblocking%20software%20for%20windows%20users%20who%20are%20impacted%20by%20Lightspeed%20systems.&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fgithub.com%2FImPosh%2FCarbon%2Fblob%2Fmain%2FMain%2FCarbonLogo-fotor-bg-remover-20230523122211.png%3Fraw%3Dtrue&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="Carbon" width="640" height="320" />
+ 
+</div>
 
-Our repo has been move [here](https://github.com/carbonnetwork-dev/Carbon)
+## Features
+- Nice looking ui
+- Works on all fcps computers
+- Safe to use
+- Super fast
+- Consumer friendly
