@@ -10,7 +10,7 @@
 - Works on all fcps computers
 - Safe to use
 - Super fast
-- Consumer friendly
+- User friendly
 
 ## Creators
 
