@@ -21,3 +21,7 @@
 ## Changelog
 
 Changes are documented in the [changelog](./Changelog.md)
+
+## Wiki
+
+For instructions on how to download it go to our [wiki[(https://github.com/ImPosh/Carbon/wiki)
