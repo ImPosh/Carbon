@@ -3,8 +3,8 @@ color 0a
 title Carbon
 echo Welcome to carbon!
 echo Made this for a school project I need that A+
-echo For Testing purposes only
-echo Made by Joshua Vonharten and Elliot Powers
+echo For Testing purposes only with help from 3kh0
+echo Made by posh, epizell and stonks7903 
 echo This has been tested only on fcps computers this program may not work for other school districts  
 Pause. >nul | echo.Do you want to end censorship on this device. If so click any key to countinue with the setup
 Pause. >nul | echo.Do you understand that this program is made for fcps computers using lightspeed. click any key to continue
