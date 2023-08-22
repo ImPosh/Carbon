@@ -13,3 +13,5 @@
 # v1.0.3
 
 - Changed some ui with the carbon
+
+Im unsure about the future of carbon as I have started high school and they gave chromebooks. Carbon was intended for windows 10 computers and chromebooks will not allow me to devlope it.
