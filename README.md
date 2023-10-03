@@ -6,8 +6,8 @@
 
 ## Features
 
-- Nice looking ui
-- Works on all fcps computers
+- Nice looking UI
+- Works on all FCPS computers
 - Safe to use
 - Super fast
 - User friendly
@@ -24,4 +24,4 @@ Changes are documented in the [changelog](./Changelog.md)
 
 ## Wiki
 
-For questions related to carbon vist our [wiki](https://github.com/ImPosh/Carbon/wiki)
+For questions related to carbon visit our [wiki](https://github.com/ImPosh/Carbon/wiki)
